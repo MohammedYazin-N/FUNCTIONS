@@ -27,4 +27,4 @@ This repository contains an SQL assignment focused on **user-defined functions**
 2️⃣ Execute the **SELECT queries** to test the functions.  
 3️⃣ Modify and experiment with different datasets.  
 
-💡 **Feel free to contribute, improve queries, or suggest optimizations!** 🚀  
+ 
